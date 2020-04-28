@@ -10,6 +10,6 @@ Each string should be formatted as <strong>label: x, y, z.</strong> For example,
 <strong>INSTRUCTIONS</strong>
 
 1. Download and unzip the repository folder.
-2. Open, compile and run the break_continue.py file with Python 3 to see the project.
+2. Open, compile and run the zip_and_enumerate.py file with Python 3 to see the project.
 
 # Author: Andrés R. Bucheli.
