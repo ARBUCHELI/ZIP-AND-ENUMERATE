@@ -5,4 +5,11 @@ appends it to the list <strong>points.</strong>
 Each string should be formatted as <strong>label: x, y, z.</strong> For example, the string for the first coordinate should be 
 <strong>F: 23, 677, 4.</strong>
 
-![zip]
+![zip](https://github.com/anferebu/ZIP-AND-ENUMERATE/blob/master/zip_and_enumerate.jpg)
+
+<strong>INSTRUCTIONS</strong>
+
+1. Download and unzip the repository folder.
+2. Open, compile and run the break_continue.py file with Python 3 to see the project.
+
+# Author: Andrés R. Bucheli.
